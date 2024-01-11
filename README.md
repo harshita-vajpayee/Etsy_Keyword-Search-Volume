@@ -9,7 +9,8 @@ Keyword search volume - It simply means how many times that specific keyword sea
 - [Problem Statement](#ps)
 - [Explaination](#explaination)
 - [Technology Used](#tech)
-
+- [Screenshot](#screenshots)
+- [Deployment](#deployment)
 
 ## Introduction
 
@@ -35,7 +36,8 @@ I have analysed features from "everbee.io" and tried to implement them.
 - **CSS** 
 - **Javascript**
 - **NodeJs** 
-- **Firebase**  
+- **Firebase**
+  
 ## Screenshots
 ![Home Page screenshot](![Screenshot (574)](https://github.com/harshita-vajpayee/Etsy_Keyword-Search-Volume/assets/97746035/68f5b97d-33af-4783-808c-70d6e825f080)
 )
@@ -48,3 +50,5 @@ Console screenshot showing extracted data from website "https://www.alura.io/"
 )
 ![Console](![Screenshot (570)](https://github.com/harshita-vajpayee/Etsy_Keyword-Search-Volume/assets/97746035/6ba21564-ce23-450a-9945-7bc9773b8ab6)
 
+##Deployment
+Visit this link : https://etsy-keyword-search-volume.vercel.app/
